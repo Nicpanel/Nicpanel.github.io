@@ -5,7 +5,6 @@
 <meta name="description" content="Postdoctoral researcher in molecular modeling, Nicolas Panel is currently aiming to redesign proteins to develop low carbon footprint bioprocesses.">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="google-site-verification" content="EcIEVKtDly8dpLekU7YngWBmK6_Cu5hSnJBWBsmqkeY" />
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
 <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-2017.css">
@@ -70,70 +69,7 @@ body {font-family: "Lato", sans-serif}
                             <tbody>
                                 <tr>
                                     <td>
-                                        <p class="w3-justify"><font size="5"> 2025 </font></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p class="w3-justify">
-                                            <span class="badge badge-warning rounded-pill">Preprint</span>
-                                            Francesco Colizzi, Paula Blázquez-Sánchez, Giovanni Bussi, Isabelle André, Federico Ballabio,
-                                            Thomas Bayer, Federica Bertocchini, Erik Butenschön, Emanuele Carosati, Alessia De Piero, 
-                                            Ania Di Pede-Mattatelli, Leonardo Faggian, Lorenzo Favaro, Pedro Alexandrino Fernandes, 
-                                            Alfonso Ferretti, Peter Fojan, Andreas Gagsteiger, Eva García-Ruiz, Lucia Gardossi, Toni Giorgino, 
-                                            Norbert Graefe, Jonas Gunkel, Diego J Jiménez, Malene Billeskov Keller, Georg Künze, Sierin Lim, 
-                                            Guy Lippens, Miguel A Maria-Solano, Karolina Mitusińska, Vicent Moliner, Gianluca Molla, Marthinus Wessel Myburgh, 
-                                            <u>Nicolas Panel</u>, César A Ramírez-Sarmiento, Dominique Rocher, Birgit Strodel, Belén Taroncher Ruiz, 
-                                            Onur Turak, Cristiano Varrone, Daniele Vezzini, Peter Westh, Wolfgang Zimmermann, 
-                                            <b> Computations Meet Experiments to Advance the Enzymatic Depolymerization of Plastics One Atom at a Time </b>, 
-                                            </b>, <i><b>arXiv</b>, 2025,</i> <a href="https://arxiv.org/abs/2507.14413">link</a> <br></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p class="w3-justify">
-                                            <span class="badge badge-primary rounded-pill">Article</span>
-                                            Anh TN Nguyen*, <u>Nicolas Panel</u>*, Duc Duy Vo, Bui San Thai, Ling Yeong Chia, Cam Sinh Lu, Shane D Hellyer, 
-                                            Monica Langiu, Manuela Jörg, Karen J Gregory, Jan Kihlberg, Paul J White, Peter J Scammells, Arthur Christopoulos, 
-                                            Jens Carlsson, Lauren T May, <b> Structure-based discovery of positive allosteric modulators of the A1 adenosine receptor
-                                            </b>, <i><b>Proceedings of the National Academy of Sciences</b>, 2025,</i> (*co-first authors) <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2421687122">link</a> <br></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p class="w3-justify"><font size="5"> 2024 </font></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p class="w3-justify ">
-                                            <span class="badge badge-secondary rounded-pill">Patent</span>
-                                            Nicolas Canu, Govindan Raghunathan, Mohammed El Bachiri, <u>Nicolas Panel</u>, Rajendra Sharma, Giuliano Nigro, Sophie Bozonnet, Magali Remaud-Simeon, Vincent Lafaquiere, Isabelle Andre
-                                            <b>Use of type III polyketide synthases of cyanobacteria as phloroglucinol synthases</b>,
-                                        <i><b>WO2024200976A1</b>, 2024,</i> <a href="https://patents.google.com/patent/WO2024200976A1/en">link</a> <br></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
                                         <p class="w3-justify"><font size="5"> 2023 </font></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p class="w3-justify ">
-                                            <span class="badge badge-secondary rounded-pill">Patent</span>
-                                            Nicolas Canu, Govindan Raghunathan, Mohammed El Bachiri, <u>Nicolas Panel</u>, Rajendra Sharma, Giuliano Nigro, Sophie Bozonnet, Magali Remaud-Siméon, Vincent Lafaquière, Isabelle André,
-                                            <b>Use of type III polyketide synthases from Ascomycetes fungi as phloroglucinol synthases</b>,
-                                        <i><b>FR3147290A1</b>, 2023,</i> <a href="https://patents.google.com/patent/FR3147290A1/en">link</a> <br></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p class="w3-justify ">
-                                            <span class="badge badge-secondary rounded-pill">Patent</span>
-                                            Nicolas Canu, Govindan Raghunathan, Mohammed El Bachiri, <u>Nicolas Panel</u>, Rajendra Sharma, Giuliano Nigro, Sophie Bozonnet, Magali Remaud-Siméon, Vincent Lafaquière, Isabelle André,
-                                            <b>Use of type III polyketide synthases from cyanobacteria as phloroglucinol synthases</b>,
-                                        <i><b>FR3147291A1</b>, 2023,</i> <a href="https://patents.google.com/patent/FR3147291A1/en">link</a> <br></p>
                                     </td>
                                 </tr>
                                 <tr>
@@ -246,7 +182,7 @@ body {font-family: "Lato", sans-serif}
                                 <tr>
                                     <td>
                                         <p class="w3-justify">
-                                            <span class="badge badge-success rounded-pill">PhD. Thesis</span>
+                                            <span class="badge badge-secondary rounded-pill">PhD. Thesis</span>
                                             <u>Nicolas Panel</u>,
                                             <b>Computational study of the Tiam1 PDZ domain</b>,
                                             <i><b>École Polytechnique</b>, 2017,</i> <a href="https://theses.fr/2017SACLX062">link</a> <br></p>
@@ -389,4 +325,5 @@ window.onclick = function(event) {
 
 </body>
 </html>
+
 
